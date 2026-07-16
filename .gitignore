@@ -1,0 +1,6 @@
+# nothing but the feed belongs here
+*
+!.gitignore
+!.gitattributes
+!README.md
+!avito-feed.xlsx
