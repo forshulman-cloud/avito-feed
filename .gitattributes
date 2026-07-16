@@ -1,0 +1,3 @@
+# the feed is binary: never apply eol/text conversion to it
+*.xlsx binary -text -diff
+* -text
